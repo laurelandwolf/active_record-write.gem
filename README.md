@@ -1,3 +1,5 @@
+DEPRECATED: See http://github.com/laurelandwolf/active_record-pool (new features, better stability, more tests, rails 5 compat)
+
 active_record-write
 -------------------
 
